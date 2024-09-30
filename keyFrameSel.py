@@ -110,10 +110,11 @@ def select_key_frames(video_path, num_key_frames=4, sharpness_threshold=80.0):
 if __name__ == '__main__':
 
     # Usage Example
-    video_dir = '/scratch/rhong5/dataset/signLanguage/WLASL/raw_videos'
+    # video_dir = '/scratch/rhong5/dataset/signLanguage/WLASL/raw_videos'
+    video_dir = 'test_video'
     video_names = os.listdir(video_dir)
-    test_video_dir = 'test_video'
-    os.makedirs(test_video_dir, exist_ok=True)
+    # test_video_dir = 'test_video'
+    # os.makedirs(test_video_dir, exist_ok=True)
 
     out_dir = 'output'
     os.makedirs(out_dir, exist_ok=True)
@@ -125,8 +126,8 @@ if __name__ == '__main__':
     for i, video_name in enumerate(video_names):
         print(f'Processing video: {video_name}, {i}/{len(video_names)}')
         video_path = os.path.join(video_dir, video_name)
-        new_video_path = os.path.join(test_video_dir, video_name)
-        os.system(f'cp {video_path} {new_video_path}')
+        # new_video_path = os.path.join(test_video_dir, video_name)
+        # os.system(f'cp {video_path} {new_video_path}')
         key_frames = select_key_frames(video_path, num_key_frames=4)
         video_basename = os.path.basename(video_path).split('.')[0]
 
