@@ -4,7 +4,7 @@
 
 
 ### Video 1
-**Video:**  
+**Video (click the image below to download the video):**  
 [![04430.mp4](output/04430.jpg)](test_video/04430.mp4)
 
 **Extracted Image:**  
@@ -13,7 +13,7 @@
 ---
 
 ### Video 2
-**Video:**  
+**Video (click the image below to download the video):**  
 [![06650.mp4](output/06650.jpg)](test_video/06650.mp4)
 
 **Extracted Image:**  
@@ -22,7 +22,7 @@
 ---
 
 ### Video 3
-**Video:**  
+**Video (click the image below to download the video):**  
 [![07475.mp4](output/07475.jpg)](test_video/07475.mp4)
 
 **Extracted Image:**  
@@ -31,7 +31,7 @@
 ---
 
 ### Video 4
-**Video:**  
+**Video (click the image below to download the video):**  
 [![15606.mp4](output/15606.jpg)](test_video/15606.mp4)
 
 **Extracted Image:**  
@@ -40,7 +40,7 @@
 ---
 
 ### Video 5
-**Video:**  
+**Video (click the image below to download the video):**  
 [![30385.mp4](output/30385.jpg)](test_video/30385.mp4)
 
 **Extracted Image:**  
@@ -49,7 +49,7 @@
 ---
 
 ### Video 6
-**Video:**  
+**Video (click the image below to download the video):**  
 [![44900.mp4](output/44900.jpg)](test_video/44900.mp4)
 
 **Extracted Image:**  
@@ -58,7 +58,7 @@
 ---
 
 ### Video 7
-**Video:**  
+**Video (click the image below to download the video):**  
 [![50508.mp4](output/50508.jpg)](test_video/50508.mp4)
 
 **Extracted Image:**  
@@ -67,7 +67,7 @@
 ---
 
 ### Video 8
-**Video:**  
+**Video (click the image below to download the video):**  
 [![53706.mp4](output/53706.jpg)](test_video/53706.mp4)
 
 **Extracted Image:**  
@@ -76,7 +76,7 @@
 ---
 
 ### Video 9
-**Video:**  
+**Video (click the image below to download the video):**  
 [![65140.mp4](output/65140.jpg)](test_video/65140.mp4)
 
 **Extracted Image:**  
@@ -85,7 +85,7 @@
 ---
 
 ### Video 10
-**Video:**  
+**Video (click the image below to download the video):**  
 [![65388.mp4](output/65388.jpg)](test_video/65388.mp4)
 
 **Extracted Image:**  
