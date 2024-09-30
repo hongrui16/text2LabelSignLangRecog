@@ -1,7 +1,7 @@
 # text2LabelSignLangRecog
 
-## Key Frame Selection(Videos and Corresponding Images)
-
+## Key Frame Extraction(Videos and Corresponding Images)
+The key frames are extracted based on the hand's bounding box, key points, motion, and image blurriness.
 
 ### Video 1
 **Video (click the image below to download the video):**  
