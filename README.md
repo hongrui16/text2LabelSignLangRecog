@@ -149,4 +149,4 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 ---
 ## Summary
 
-If we increase the threshold for key points confidence or the threshold for sharpness, both will filter out blury frames, resulting in a lack of dynamic motion.
+If we increase the threshold for key points confidence or the threshold for sharpness, both will filter out blury frames, resulting in a lack of dynamic motion, as shown the progress from Part 1 to Part 2.
