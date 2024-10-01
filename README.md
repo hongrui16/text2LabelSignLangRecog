@@ -4,7 +4,6 @@
 The key frames are extracted based on the hand's bounding box, key points, confidence of bounding boxes or key points, motion, and image blurriness.
 
 ---
----
 
 ## Part 1 (The key points are detected by MediaPipe in this part.)
 
@@ -15,7 +14,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![04430.jpg](output/mediapipe_hands/04430.jpg)
 
----
 
 ### Video 2
 **Video (click the image below to download the video):**  
@@ -24,7 +22,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![06650.jpg](output/mediapipe_hands/06650.jpg)
 
----
 
 ### Video 3
 **Video (click the image below to download the video):**  
@@ -33,7 +30,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![07475.jpg](output/mediapipe_hands/07475.jpg)
 
----
 
 ### Video 4
 **Video (click the image below to download the video):**  
@@ -42,7 +38,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![15606.jpg](output/mediapipe_hands/15606.jpg)
 
----
 
 ### Video 5
 **Video (click the image below to download the video):**  
@@ -51,7 +46,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![30385.jpg](output/mediapipe_hands/30385.jpg)
 
----
 
 ### Video 6
 **Video (click the image below to download the video):**  
@@ -60,7 +54,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![44900.jpg](output/mediapipe_hands/44900.jpg)
 
----
 
 ### Video 7
 **Video (click the image below to download the video):**  
@@ -69,7 +62,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![50508.jpg](output/mediapipe_hands/50508.jpg)
 
----
 
 ### Video 8
 **Video (click the image below to download the video):**  
@@ -78,7 +70,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![53706.jpg](output/mediapipe_hands/53706.jpg)
 
----
 
 ### Video 9
 **Video (click the image below to download the video):**  
@@ -87,7 +78,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![65140.jpg](output/mediapipe_hands/65140.jpg)
 
----
 
 ### Video 10
 **Video (click the image below to download the video):**  
@@ -96,7 +86,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![65388.jpg](output/mediapipe_hands/65388.jpg)
 
----
 ---
 
 ## Part 2 (The key points are detected by OpenPose in this part.)
@@ -108,7 +97,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![06650.jpg](output/openpose/06650.jpg)
 
----
 
 ### Video 4
 **Video (click the image below to download the video):**  
@@ -117,7 +105,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![15606.jpg](output/openpose/15606.jpg)
 
----
 
 ### Video 5
 **Video (click the image below to download the video):**  
@@ -126,7 +113,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![30385.jpg](output/openpose/30385.jpg)
 
----
 
 ### Video 9
 **Video (click the image below to download the video):**  
@@ -135,7 +121,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 **Extracted Image:**  
 ![65140.jpg](output/openpose/65140.jpg)
 
----
 
 ### Video 10
 **Video (click the image below to download the video):**  
@@ -145,7 +130,6 @@ The key frames are extracted based on the hand's bounding box, key points, confi
 ![65388.jpg](output/openpose/65388.jpg)
 
 
----
 ---
 ## Summary
 
